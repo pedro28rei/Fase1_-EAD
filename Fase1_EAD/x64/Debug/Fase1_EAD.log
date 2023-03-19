@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\pedro\Desktop\Traballho Prático EAD\Fase 1\Fase1_EAD\main.c(50,10): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\pedro\Desktop\Traballho Prático EAD\Fase 1\Fase1_EAD\main.c(107,62): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\pedro\Desktop\Traballho Prático EAD\Fase 1\Fase1_EAD\main.c(21,57): warning C4101: 'alugado': unreferenced local variable
+  Fase1_EAD.vcxproj -> C:\Users\pedro\Desktop\Traballho Prático EAD\Fase 1\Fase1_EAD\x64\Debug\Fase1_EAD.exe
