@@ -1,4 +1,4 @@
-# Projeto Fase 1 - Estrutura de Dados Avançadas
+# Projeto (Fase 1) - Estrutura de Dados Avançadas
 
 - Este é um repositório criado para a realização da fase 1 do projeto para a unidade curricular  Estrutra de Dados Avançadas. (Linguagem C)
 
